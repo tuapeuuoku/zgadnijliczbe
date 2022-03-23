@@ -1,0 +1,15 @@
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.csproj.AssemblyReference.cache
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.AssemblyInfoInputs.cache
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.AssemblyInfo.cs
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.csproj.CoreCompileInputs.cache
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\bin\Debug\net6.0\Zgadnijliczbe.exe
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\bin\Debug\net6.0\Zgadnijliczbe.deps.json
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\bin\Debug\net6.0\Zgadnijliczbe.runtimeconfig.json
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\bin\Debug\net6.0\Zgadnijliczbe.dll
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\bin\Debug\net6.0\ref\Zgadnijliczbe.dll
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\bin\Debug\net6.0\Zgadnijliczbe.pdb
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.dll
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\ref\Zgadnijliczbe.dll
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.pdb
+C:\Users\miko\source\repos\Zgadnijliczbe\Zgadnijliczbe\obj\Debug\net6.0\Zgadnijliczbe.genruntimeconfig.cache
